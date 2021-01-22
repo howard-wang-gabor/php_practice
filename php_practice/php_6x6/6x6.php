@@ -7,3 +7,4 @@ for ($i=1;$i<=6;$i++){
         echo ($table[$i][$j]."\t");
     }
 }
+echo 'This sentence is for test PR function.';
